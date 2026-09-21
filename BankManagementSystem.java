@@ -42,7 +42,9 @@ class BankAccount {
         System.out.println("Account Number: " + accountNumber);
         System.out.println("Balance: Rs. " + balance);
     }
+}
 
+class BankManagementSystem {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
